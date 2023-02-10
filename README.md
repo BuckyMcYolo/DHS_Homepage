@@ -1,4 +1,5 @@
 This is going to be the hompeage of Digital Healthcare solutions (digitalhealthcaresolutions.io)
 
-Building using NextJs 13
+Building using Nextjs 13
 
+// Will return to this when NextJs13 has more support//
